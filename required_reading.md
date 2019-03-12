@@ -34,4 +34,3 @@
 * [Text Sequence Type — str](https://docs.python.org/3.7/library/stdtypes.html#text-sequence-type-str)
 * [Unix Commands](/other_materials/unix_commands.md)
 * [Urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
-* [Urllib.request — Extensible library for opening URLs](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)
