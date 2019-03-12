@@ -1,9 +1,7 @@
-g
 * [Learning Objectives](/other_materials/learning_objectives.md)
 * [Installations](/other_materials/installation.md)
 * [Unix Commands](/other_materials/unix_commands.md)
 * [Exercise: Unix Commands](/exercises/UNIX_commands.md)
-g
 * [3. An Informal Introduction to Python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. Using Python as a Calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
 * [3.1.1. Numbers](https://docs.python.org/3.7/tutorial/introduction.html#numbers)
@@ -12,7 +10,6 @@ g
 * [String Methods](https://docs.python.org/3.7/library/stdtypes.html#string-methods)
 * [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)
 * [4.1. if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-g
 * [3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 * [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
@@ -22,7 +19,6 @@ g
 * [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 * [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html#sorting-how-to)
-g
 * [5.5. Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 * [5.6. Looping Techniques](https://docs.python.org/3/tutorial/datastructures.html#looping-techniques)
 * [5.7. More on Conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)
@@ -35,7 +31,6 @@ g
 * [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [Open](https://docs.python.org/3/library/functions.html#open)
 * [file object](https://docs.python.org/3/glossary.html#term-file-object)
-g
 * [HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3/howto/urllib2.html)
 * [subprocess — Subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)
 * [urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
@@ -44,4 +39,3 @@ g
 * [Exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 * [8.4. The try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
 * [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
-* [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
