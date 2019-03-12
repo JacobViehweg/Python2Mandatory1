@@ -5,10 +5,7 @@
 * [3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 * [4.1. if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 * [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-* [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
-* [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
-* [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 * [5.4. Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
@@ -20,8 +17,6 @@
 * [7.2.1. Methods of File Objects](https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects)
 * [8. Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 * [8.4. The try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
-* [8.4. The try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
-* [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [8.5. The with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [Exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 * [Exercise: Unix Commands](/exercises/UNIX_commands.md)
@@ -40,44 +35,3 @@
 * [Unix Commands](/other_materials/unix_commands.md)
 * [Urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
 * [Urllib.request — Extensible library for opening URLs](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
-HelLo
